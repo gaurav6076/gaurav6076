@@ -1,28 +1,28 @@
 
-<h1 align="center">Hey Everyone! 👋, I'm Nimit Saxena</h1>
+<h1 align="center">Hey Everyone! 👋, I'm Gaurav Yadav</h1>
 <h3 align="center">Passionate Learner & Aspiring Developer 🚀</h3>
 
 <p align="center"> 
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-- 👨‍🎓 Currently pursuing a **B.Tech** in **Computer Science and Engineering** (2022-2026) at the **National Institute of Technology Raipur**.
+- 👨‍🎓 Currently pursuing a **B.Tech** (2022-2026) at the **Inidian Institute of Technology(IIT), BHU**.
 - 💬 Feel free to ask me about **CP**, **HTML/CSS**, **ReactJS**, and more.
 - 🌱 Actively learning **Frontend/Backend Development** to become a full-stack developer.
 - 🤝 Looking for opportunities to collaborate and contribute to meaningful **open-source projects**.
 - 🎯 Focused on building scalable applications, solving real-world problems, and becoming a proficient **problem solver**.
 - 🚀 Constantly striving to level up my **competitive programming** journey.
-- 🌐 Check out my latest projects on [GitHub](https://github.com/warrioroo7)!
+- 🌐 Check out my latest projects on [GitHub](https://github.com/gaurav6076)!
 
 
 
 <h3><b><samp>Connect with Me</samp></b></h3>
 
-[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nimit-saxena/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/warrioroo7)
-[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/warrioroo7)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Warrioroo7) 
-[![LeetCode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/warrioroo7/) 
+[![Linkdein](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-yadav-6b2364166/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/gaurav6076)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/gaurav_4132)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/james_067) 
+[![LeetCode](https://img.shields.io/badge/-Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=white)](https://leetcode.com/u/James_0670/) 
 
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
